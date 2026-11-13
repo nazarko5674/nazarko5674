@@ -1,9 +1,12 @@
 <p align="center">
   <img src="./Data%20Analytics%20Banner.png" width="100%" alt="Data Analytics Banner">
 </p>
-<h1 align="center">Hi, I'm Nazar  👋</h1>
 
-<h3 align="center">Data Analyst | SQL | Python | Excel | Tableau</h3>
+<h2 align="center">Welcome to my Data Analytics Portfolio! 👋</h2>
+
+<p align="center">
+  Turning raw data into meaningful insights through analysis and visualization.
+</p>
 
 <p align="center">
   📍 Lviv, Ukraine
@@ -13,17 +16,29 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Analyst passionate about working with data and turning raw information into meaningful insights.
+I'm an aspiring Data Analyst passionate about discovering insights and solving problems with data.
 
-- 🔍 Experience in data collection, cleaning, and analysis.
-- 🐍 Working with Python and Pandas.
+- 🔍 Collecting, cleaning, and analyzing datasets.
+- 🐍 Using Python and Pandas for data processing.
 - 🗄️ Writing SQL queries and working with BigQuery.
-- 📊 Building interactive dashboards in Tableau and Looker Studio.
-- 🚀 Developing personal data analytics projects.
+- 📊 Creating interactive dashboards in Tableau and Looker Studio.
+- 🚀 Building personal and practical analytics projects.
+
+My goal is to continuously improve my analytical skills and turn data into meaningful business insights.
 
 ---
 
+
 ## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+</p>
 
 | Category | Technologies |
 |---|---|
@@ -33,14 +48,8 @@ I'm a Data Analyst passionate about working with data and turning raw informatio
 | Spreadsheets | Microsoft Excel, Google Sheets |
 | Automation | Google AppSheet |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-</p>
+---
+
 ---
 
 ## 📂 Featured Projects
