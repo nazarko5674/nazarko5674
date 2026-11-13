@@ -1,7 +1,6 @@
-```markdown
-<h1 align="center">Hi, I'm Nazar Hado 👋</h1>
+<h1 align="center">Hi, I'm Nazar  👋</h1>
 
-<h3 align="center">Junior Data Analyst | SQL | Python | Excel | Tableau</h3>
+<h3 align="center">Data Analyst | SQL | Python | Excel | Tableau</h3>
 
 <p align="center">
   📍 Lviv, Ukraine
@@ -11,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Junior Data Analyst passionate about working with data and turning raw information into meaningful insights.
+I'm a Data Analyst passionate about working with data and turning raw information into meaningful insights.
 
 - 🔍 Experience in data collection, cleaning, and analysis.
 - 🐍 Working with Python and Pandas.
@@ -88,7 +87,6 @@ I'm a Junior Data Analyst passionate about working with data and turning raw inf
 <p align="center">
   <i>Always learning, improving, and exploring data.</i>
 </p>
-```
 
 <!--
 **nazarko5674/nazarko5674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
