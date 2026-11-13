@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Data%20Analytics%20Banner.png" width="100%" alt="Data Analytics Banner">
+</p>
 <h1 align="center">Hi, I'm Nazar  👋</h1>
 
 <h3 align="center">Data Analyst | SQL | Python | Excel | Tableau</h3>
