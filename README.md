@@ -8,7 +8,7 @@
   Turning raw data into meaningful insights through analysis and visualization.
 </p>
 
-<p align="center">📍 Lviv, Ukraine</p>
+<p align="center">📍 Ukraine</p>
 
 ---
 
@@ -151,7 +151,7 @@ My goal is to continuously improve my analytical skills and turn data into meani
 ## 🌐 Languages
 
 - 🇺🇦 Ukrainian — Native
-- 🇬🇧 English — A2–B1 (Basic)
+- 🇬🇧 English — A2–B1
 
 </td>
 <td width="36%" valign="top">
